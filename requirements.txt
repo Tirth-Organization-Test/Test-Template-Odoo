@@ -1,0 +1,1 @@
+# Python packages required by the custom modules on Odoo 17.0.
